@@ -1,0 +1,50 @@
+.privacy-policy {
+  font-size: 25px;
+  margin: 20px 30px;
+}
+
+.heading-top {
+}
+
+.head {
+  font-size: 42px;
+  border-bottom: 1px solid #000;
+}
+.privacy-policy__list {
+  margin-top: 30px;
+}
+
+.privacy-policy__item {
+  margin-bottom: 50px;
+}
+
+.item-name__main {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.item-name__sub {
+  font-size: 20px;
+}
+.tools {
+  font-weight: bold;
+}
+
+.tools__text {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.contact {
+  font-weight: bold;
+}
+
+.contact__text {
+  display: block;
+  font-size: 20px;
+}
+
+.kaito {
+  color: #551a8b;
+  text-decoration: underline;
+}
